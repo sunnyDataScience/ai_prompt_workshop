@@ -1,0 +1,10 @@
+# Instructor-only materials
+workshop_teaching_script.md
+ai_prompt_tactics_full_book.html
+assets/L2_all_demo_prompts.md
+
+# Environment
+.env
+*.log
+.DS_Store
+Thumbs.db
